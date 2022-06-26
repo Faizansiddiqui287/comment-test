@@ -1,0 +1,23 @@
+.main-row{
+    height: 100vh;
+}
+.main-col{
+    max-width: 500px;
+    min-height: 300px;
+    
+}
+
+.comment{
+    margin: 0;
+    margin-top: 10px;
+    
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.inp{
+    margin-bottom: 5px;
+}
